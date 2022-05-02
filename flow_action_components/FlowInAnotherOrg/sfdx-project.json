@@ -6,10 +6,10 @@
             "package": "RunFlowInAnotherOrg",
             "dependencies": [
                 {
-                    "package": "FlowActionsBasePack@2.32.0-0"
+                    "package": "FlowActionsBasePack@3.0.0-0"
                 },
                 {
-                    "package": "FlowScreenComponentsBasePack@2.5.7-0"
+                    "package": "FlowScreenComponentsBasePack@3.0.0-0"
                 },
                 {
                     "package": "SerializeDeserialize@1.1.0-0"
